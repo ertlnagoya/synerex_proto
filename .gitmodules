@@ -37,3 +37,6 @@
 [submodule "latent_demand"]
 	path = latent_demand
 	url = https://github.com/synerex/proto_latent_demand.git
+[submodule "hello"]
+	path = hello
+	url = https://github.com/ertlnagoya/proto_hello
